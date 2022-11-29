@@ -1,3 +1,5 @@
+![Logo of the Laboratory of Computational Science and Modeling](cosmo-logo_ai2svg.png)
+
 Hi there! This is the github page of the [COSMO lab](https://www.epfl.ch/labs/cosmo/). In this repository you can find the software developed by our group, collaborators and friends. 
 
 We put our code here because we believe in open science and want the community to both benefit from our work and contribute to it. 
