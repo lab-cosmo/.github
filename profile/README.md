@@ -16,8 +16,8 @@ Clone, enjoy... and cite
 **[chemiscope](https://github.com/lab-cosmo/chemiscope)**:
 	a graphical tool for the interactive exploration of materials and molecular databases, as well as a library of re-usable components useful to create new interfaces.	
 
-**[scikit-cosmo](https://github.com/lab-cosmo/scikit-cosmo)**:
-	a collection of scikit-learn compatible utilities that implement methods developed in the COSMO laboratory
+**[scikit-matter](https://github.com/lab-cosmo/scikit-matter)**:
+	a collection of scikit-learn compatible utilities that implement methods born out of the materials science and chemistry communities.
 
 **[librascal](https://github.com/lab-cosmo/librascal)**:
 	 a versatile and scalable fingerprint and machine learning code
