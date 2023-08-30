@@ -22,8 +22,8 @@ Clone, enjoy... and cite
 **[librascal](https://github.com/lab-cosmo/librascal)**:
 	 a versatile and scalable fingerprint and machine learning code
 
-**[equistore](https://github.com/lab-cosmo/equistore)**:
-	a library to handle data storage for atomistic machine learning
+**[metatensor](https://github.com/lab-cosmo/metatensor)**:
+	a library to manipulate arrays that are associated with rich metadata information, such as those that commonly appear in representations for  atomistic machine learning
 
 **[rascaline](https://github.com/lab-cosmo/rascaline)** (this is a fork of a [repo](https://github.com/Luthaf/rascaline) developed in our group):
 	a library to compute representations for atomistic machine learning
