@@ -7,38 +7,21 @@ benefit from our work and contribute to it.
 
 Clone, enjoy... and cite
 
-## Active Projects
+## External Projects
+
+Besides the repositories we pin below we develop the following projects.
 
 **[i-pi](https://github.com/lab-cosmo/i-pi)** a universal force engine designed to be
 	 used together with an ab-initio, empirical or machine-learning force field (or a
 	 combination of these!) to run molecular dynamics simulations, including nuclear
-	 quantum effects. (this is a fork of the [main i-PI repo](https://github.com/i-pi/)
-	 containing some experimental features developed in our group): a universal force
-	 engine interface written in Python.
-
-**[chemiscope](https://github.com/lab-cosmo/chemiscope)**: a graphical tool for the
-	interactive exploration of materials and molecular databases, as well as a library
-	of re-usable components useful to create new interfaces.
+	 quantum effects.
 
 **[scikit-matter](https://github.com/lab-cosmo/scikit-matter)**: a collection of
 	scikit-learn compatible utilities that implement methods born out of the materials
 	science and chemistry communities.
 
-**[librascal](https://github.com/lab-cosmo/librascal)**: a versatile and scalable
-	 fingerprint and machine learning code
-
-**[metatensor](https://github.com/lab-cosmo/metatensor)**: a library to manipulate
-	arrays that are associated with rich metadata information, such as those that
-	commonly appear in representations for  atomistic machine learning
-
-**[rascaline](https://github.com/luthaf/rascaline)** (this is a fork of a
-	[repo](https://github.com/Luthaf/rascaline) developed in our group): a library to
+**[rascaline](https://github.com/luthaf/rascaline)**: a library to
 	compute representations for atomistic machine learning
-
-**[nice](https://github.com/lab-cosmo/nice)**: a set of tools designed for the
-	calculation of invariant and covariant atomic structure representations.
-
-
 
 ## Tutorials and Examples:
 
@@ -49,8 +32,6 @@ Clone, enjoy... and cite
 **[sampling-tutorial](https://github.com/lab-cosmo/sampling-tutorial)** a set of
 	exercise files and handouts for a sampling tutorial, from thermostatting to
 	non-linear dimensionality reduction
-
-
 
 ## Legacy code:
 
