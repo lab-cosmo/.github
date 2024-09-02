@@ -25,6 +25,10 @@ Besides the repositories we pin below we develop the following projects.
 
 ## Tutorials and Examples:
 
+**[atomistic-cookbook](https://lab-cosmo.github.io/atomistic-cookbook/latest/index.html)**
+        an online, interactive collection of "recipes" to perform different kinds of 
+	atomistic simulations, from path integral dynamics to the training of a ML model
+
 **[kernel-tutorials](https://github.com/lab-cosmo/kernel-tutorials)** a set of utilities
 	and pedagogic notebooks for the use of linear and kernel methods in atomistic
 	modeling
