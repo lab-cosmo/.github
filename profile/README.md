@@ -49,4 +49,4 @@ functional and working, but no longer maintained.
 	Molecular Motifs method
 
 **[sketchmap](https://github.com/lab-cosmo/sketchmap)** a suite of programs to perform
-	non-linear dimensionality reduction
+	non-linear dimensionality reduction: http://sketchmap.org
