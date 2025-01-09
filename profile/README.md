@@ -20,7 +20,11 @@ Besides the repositories we pin below we develop the following projects.
 	scikit-learn compatible utilities that implement methods born out of the materials
 	science and chemistry communities.
 
-**[rascaline](https://github.com/luthaf/rascaline)**: a library to
+**[metatensor](https://github.com/metatensor/metatensor)**: a data storage and exchange format
+        created for atomistic machine learning, and a standard interface to load and execute 
+	ML models in various simulation engines
+
+**[featomic](https://github.com/metatensor/featomic)**: a library to
 	compute representations for atomistic machine learning
 
 ## Tutorials and Examples:
