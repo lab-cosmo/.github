@@ -21,7 +21,9 @@ Besides the repositories we pin below we develop the following projects.
 	science and chemistry communities.
 
 **[metatensor](https://github.com/metatensor/metatensor)**: a data storage and exchange format
-        created for atomistic machine learning, and a standard interface to load and execute 
+        created for atomistic machine learning
+
+**[metatomic](https://github.com/metatensor/metatomic)**: a standard interface to load and execute 
 	ML models in various simulation engines
 
 **[featomic](https://github.com/metatensor/featomic)**: a library to
